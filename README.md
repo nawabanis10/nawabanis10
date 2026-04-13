@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Anis Nawab
 
-<!--
-**nawabanis10/nawabanis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Student & Beginner Developer
+- 🌱 Currently learning Python & Java
+- 🚀 Interested in Software Development
+- 📍 Based in Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python 🐍
+- Java ☕
+- Basic Problem Solving
+- File Handling
+
+---
+
+## 📂 My Projects
+- 🎲 Dice Roller Game
+- 🔐 Password Guessing Game
+- 📝 To-Do List App
+- 🧮 Calculator with History
+- 🎮 Hangman Game
+- 🧠 Quiz Program
+- 🔑 Signup/Signin System
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nawabanis10&show_icons=true)
+
+---
+
+## 🔥 Goals
+- Learn advanced Python
+- Build real-world projects
+- Get internship in tech
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/nawabanis10
+
+---
+
+⭐ Thank you for visiting my profile!
