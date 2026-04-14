@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Muhammad Anis Nawab
 
-## 💻 About Me
-- 🎓 Student & Beginner Developer
-- 🌱 Currently learning Python & Java
-- 🚀 Interested in Software Development
-- 📍 Based in Pakistan
+ ## 💻 About Me
+
+* 🎓 Computer Science student with a strong passion for technology and innovation
+* 🐍 Focused on becoming an expert in **Python programming**
+* 🧠 Improving logical thinking and problem-solving through consistent practice
+* 📊 On a journey to become a skilled **Data Scientist**
+* 🤖 Deeply interested in **Artificial Intelligence, Machine Learning, and automation**
+* 🛠️ Developing real-world projects to gain practical experience
+* 🚀 Goal-driven learner aiming to build impactful and intelligent systems
+* 📍 Based in Pakistan
+
 
 ---
 
@@ -31,11 +37,15 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=nawabanis10&show_icons=true)
 
 ---
+ ### 🎯 Goals
 
-## 🔥 Goals
-- Learn advanced Python
-- Build real-world projects
-- Get internship in tech
+* 🚀 Become a highly skilled and confident **Python Programmer**
+* 🧠 Strengthen problem-solving and logical thinking abilities
+* 📊 Learn and apply **Data Science** techniques on real-world data
+* 🤖 Build intelligent systems using **Artificial Intelligence & Machine Learning**
+* 🛠️ Create impactful, real-world projects and continuously improve them
+* 🌱 Stay consistent in learning and evolving as a developer
+
 
 ---
 
