@@ -55,3 +55,32 @@
 ---
 
 ⭐ Thank you for visiting my profile!
+
+# 📌 To-Do List App (Python)
+
+A simple command-line To-Do List application built using Python.
+
+## 🚀 Features
+- Add tasks
+- Show tasks
+- Delete tasks
+- Mark tasks as completed
+- Save tasks in JSON file
+- Load tasks automatically
+
+## 🧠 Concepts Used
+- Python functions
+- Lists and dictionaries
+- File handling
+- JSON (load & dump)
+- Loops and enumerate
+- Input validation
+- Error handling (try-except)
+
+## 📂 Files
+- main.py → main program
+- task.json → stores tasks
+
+## ▶️ How to Run
+```bash
+python main.py
