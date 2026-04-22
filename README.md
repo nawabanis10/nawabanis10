@@ -84,3 +84,33 @@ A simple command-line To-Do List application built using Python.
 ## ▶️ How to Run
 ```bash
 python main.py
+# 🤖 Python Rule-Based Chatbot
+
+A simple yet powerful rule-based chatbot built in Python.  
+This project demonstrates basic chatbot logic using keyword matching, random responses, and file handling.
+
+---
+
+## 🚀 Features
+
+- 💬 Continuous chat system using `while True`
+- 🧠 Keyword-based input understanding (e.g., "joke", "time")
+- 🎲 Random responses for natural conversation
+- 😂 Built-in joke generator
+- ⏰ Current time and 📅 date support
+- 💾 Chat history saved in a file with timestamps
+- 🌍 UTF-8 encoding support (handles emojis & Urdu text)
+- 👋 Greeting and exit commands
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 🐍
+- `random` module
+- `datetime` module
+- File handling (read/write)
+
+---
+
+## 📂 Project Structure
