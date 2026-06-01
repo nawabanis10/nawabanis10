@@ -114,3 +114,43 @@ This project demonstrates basic chatbot logic using keyword matching, random res
 ---
 
 ## 📂 Project Structure
+
+# CodeAlpha Python Programming Internship
+
+## About
+
+I successfully completed the Python Programming Internship at CodeAlpha. During this internship, I worked on practical programming tasks and strengthened my understanding of Python development, problem-solving, and software development concepts.
+
+## Internship Details
+
+- Organization: CodeAlpha
+- Domain: Python Programming
+- Status: Completed Successfully
+- Recognition: Certificate of Completion and Recommendation Letter
+
+## Skills Developed
+
+- Python Programming
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Debugging and Testing
+- Git & GitHub
+- Software Development Fundamentals
+
+## Achievements
+
+- Successfully completed assigned internship projects.
+- Applied Python programming concepts to real-world tasks.
+- Received an Internship Completion Certificate.
+- Received a Recommendation Letter based on performance and contributions.
+
+## Documents
+
+
+
+- Internship Completion Certificate
+- Recommendation Letter
+
+## Acknowledgment
+
+I would like to thank CodeAlpha for providing the opportunity to enhance my Python programming skills through practical learning and project-based experience.
