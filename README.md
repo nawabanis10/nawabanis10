@@ -30,6 +30,8 @@
 - 🎮 Hangman Game
 - 🧠 Quiz Program
 - 🔑 Signup/Signin System
+- 📂 File Transfer Automation
+- 📇 OOP Contact Book
 
 ---
 
