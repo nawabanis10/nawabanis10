@@ -166,3 +166,23 @@ Use code with caution.
 🧰 Tech StackPython: Core programming language.
 os: For navigating file paths and directory structures.
 shutil: For executing the high-level file copying and moving operations.
+
+**OOP Contact Book:**
+ robust, command-line contact management system built in Python utilizing Object-Oriented Programming (OOP) and persistent JSON storage.
+
+🚀 Key FeaturesOOP Architecture: Built with clean, reusable classes managing contacts and storage logic.
+Persistent Storage: Saves, reads, and updates data securely using JSON file handling.
+Smart Search & Filters: Utilizes Python dictionaries for fast, efficient contact lookups.
+Input Validation: Uses conditional logic to prevent duplicate entries and invalid inputs.
+Cross-Platform Storage: Leverages the os module for seamless file path handling across Windows, Mac, and Linux.
+🧰 Tech Stack & ConceptsPython 3.x: Core programming language.
+Object-Oriented Programming: Concepts like Classes, Objects, and Encapsulation.
+json Module: Serialization and deserialization of contact data.
+os Module: Safe file system navigation and data directory management.
+Data Structures: Dictionaries for fast key-value data mapping and data manipulation. 💻 Usage Preview:
+The system operates through an interactive command-line interface allowing you to:
+1.Add a new contact (Name, Phone, Email, etc.)
+2.View all saved contacts
+3.Search for a specific contact
+4.Delete or update existing entries
+
