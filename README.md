@@ -157,6 +157,8 @@ I successfully completed the Python Programming Internship at CodeAlpha. During 
 
 I would like to thank CodeAlpha for providing the opportunity to enhance my Python programming skills through practical learning and project-based experience.
 
+📂 File Transfer Automation(Python)
+
 File Transfer AutomationA Python automation script that automatically transfers files from a source folder to a destination folder using built-in system libraries.
 🚀 Key FeaturesAutomated Transfer: Moves files instantly between directories without manual dragging.
 Standard Libraries: Built entirely on standard Python modules with zero external dependencies.
@@ -169,7 +171,8 @@ Use code with caution.
 os: For navigating file paths and directory structures.
 shutil: For executing the high-level file copying and moving operations.
 
-**OOP Contact Book:**
+📇 OOP Contact Book System(Python)
+
  robust, command-line contact management system built in Python utilizing Object-Oriented Programming (OOP) and persistent JSON storage.
 
 🚀 Key FeaturesOOP Architecture: Built with clean, reusable classes managing contacts and storage logic.
