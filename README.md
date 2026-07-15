@@ -154,3 +154,20 @@ I successfully completed the Python Programming Internship at CodeAlpha. During 
 ## Acknowledgment
 
 I would like to thank CodeAlpha for providing the opportunity to enhance my Python programming skills through practical learning and project-based experience.
+
+File Transfer AutomationA Python automation script that automatically transfers files from a source folder to a destination folder using built-in system libraries.
+🚀 Key FeaturesAutomated Transfer: Moves files instantly between directories without manual dragging.
+Standard Libraries: Built entirely on standard Python modules with zero external dependencies.
+Safe Operations: Uses robust file system utilities to ensure data integrity during transfer.
+🛠️ PrerequisitesPython 3.x installed on your system.
+📦 Installation & SetupClone this repository to your local machine:bashgit clone https://github.com
+cd YOUR-REPOSITORY-NAME
+Use code with caution.
+Open the script file and update the folder paths to match your
+system:pythonsource_dir = "path/to/your/source/folder"
+destination_dir = "path/to/your/destination/folder"
+Use code with caution.💻 UsageRun the automation script from your terminal:bashpython main.py
+Use code with caution.
+🧰 Tech StackPython: Core programming language.
+os: For navigating file paths and directory structures.
+shutil: For executing the high-level file copying and moving operations.
