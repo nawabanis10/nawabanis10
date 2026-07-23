@@ -32,6 +32,7 @@
 - 🔑 Signup/Signin System
 - 📂 File Transfer Automation
 - 📇 OOP Contact Book
+- 🤖 Student Data Analysis using Python
 
 ---
 
