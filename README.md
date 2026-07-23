@@ -191,3 +191,54 @@ The system operates through an interactive command-line interface allowing you t
 3.Search for a specific contact
 4.Delete or update existing entries
 
+🤖 Student Data Analysis using Python
+
+This project is a beginner-level data analysis application built with core Python.
+
+🚀  Features
+
+- Load student data from a JSON file
+- Clean inconsistent data
+- Convert text marks (e.g., "ninety") into numbers
+- Remove duplicate student records
+- Handle missing values
+- Calculate statistics:
+  - Total students
+  - Average marks
+  - Highest marks
+  - Lowest marks
+  - Students scoring below 50
+  - Students with attendance below 75%
+- Generate performance recommendations:
+  - Excellent
+  - Good
+  - Average
+  - Needs Improvement
+
+🛠️ Technologies Used
+
+- Python
+- JSON
+- Functions
+- Lists
+- Dictionaries
+- Sets
+
+💻 Learning Objectives
+
+This project helped me practice:
+- File handling
+- JSON processing
+- Data cleaning
+- Loops
+- Functions
+- Conditional statements
+- Basic data analysis using plain Python
+
+## Future Improvements
+
+- Implement the project using Pandas
+- Export results to CSV
+- Add charts and visualizations
+- Build a command-line interface
+
