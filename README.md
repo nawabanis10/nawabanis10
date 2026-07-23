@@ -37,7 +37,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nawabanis10&show_icons=true&theme=tokyonight&cache_seconds=1800))
+![Stats](![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nawabanis10&show_icons=true&theme=tokyonight)))
 
 ---
  ### 🎯 Goals
