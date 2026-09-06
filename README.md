@@ -33,6 +33,8 @@
 - 📂 File Transfer Automation
 - 📇 OOP Contact Book
 - 🤖 Student Data Analysis using Python
+- 🤖 Data Analysis and cleaning with pandas (python)
+
 
 ---
 
@@ -242,4 +244,66 @@ This project helped me practice:
 - Export results to CSV
 - Add charts and visualizations
 - Build a command-line interface
+
+Project of - 🤖 Data Analysis and cleaning with pandas (python)
+
+# Cleaned Titanic Dataset
+
+This repository contains a cleaned and analysis-ready version of the Titanic passenger dataset. The dataset can be used for exploratory data analysis, data visualization, and beginner machine-learning projects.
+
+## Dataset Overview
+
+Each row represents one passenger aboard the Titanic. The dataset includes demographic details, ticket and travel information, and whether the passenger survived.
+
+The main target column is:
+
+- `Survived` — `0` means the passenger did not survive; `1` means the passenger survived.
+
+## Main Columns
+
+| Column | Description |
+|---|---|
+| `PassengerId` | Unique passenger identifier |
+| `Survived` | Passenger survival status (`0` = No, `1` = Yes) |
+| `Pclass` | Passenger class (`1` = First, `2` = Second, `3` = Third) |
+| `Name` | Passenger name |
+| `Sex` | Passenger gender |
+| `Age` | Passenger age |
+| `SibSp` | Number of siblings or spouses aboard |
+| `Parch` | Number of parents or children aboard |
+| `Ticket` | Ticket number |
+| `Fare` | Ticket fare paid |
+| `Cabin` | Cabin number, where available |
+| `Embarked` | Port of embarkation |
+
+## Cleaning Work
+
+The dataset was prepared for analysis by checking and handling common data-quality issues, including:
+
+- Missing values
+- Duplicate records
+- Incorrect data types
+- Inconsistent categorical values
+- Unnecessary columns, where applicable
+
+## Example Analysis Questions
+
+This cleaned dataset can be used to answer questions such as:
+
+- What was the survival rate by sex?
+- How many passengers travelled in each class?
+- What was the average fare by passenger class?
+- How did survival differ by sex and passenger class?
+- Which passenger groups paid the highest average fares?
+- How did age, class, and family size relate to survival?
+
+## Tools Used
+
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Purpose
+
+This project was created for practicing data cleaning, grouping, aggregation, sorting, and exploratory data analysis with Pandas.
 
